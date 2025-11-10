@@ -1,0 +1,35 @@
+.con1 {
+    background-color: #ca8722;
+    text-align: center;
+    padding-top: 230px;
+    height: 70vh;
+}
+
+.num {
+    font-size: 100px;
+}
+
+.con2 {
+    background-color: #ddad65;
+    text-align: center;
+    padding-top: 100px;
+    height: 30vh;
+}
+
+.dic {
+    background-color: rgba(234, 42, 42, 0.852);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.inc {
+    background-color: rgba(48, 222, 18, 0.852);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.res {
+    background-color: rgba(190, 156, 22, 0.852);
+    border-radius: 10px;
+    margin: 5px;
+}

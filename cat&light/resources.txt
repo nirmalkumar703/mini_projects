@@ -1,0 +1,4 @@
+light-on  = https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png
+light-off = https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/bulb-go-off-img.png
+cat       = https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/cat-img.png
+cact-eye  = https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/cat-eyes-img.png

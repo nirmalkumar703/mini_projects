@@ -1,0 +1,52 @@
+.heading {
+    color: aqua
+}
+
+.bg {
+    background-color: rgb(134, 86, 13);
+    text-align: center;
+    height: 100vh;
+}
+
+.light-on-img {
+    height: 200px;
+    width: 100px;
+}
+
+.cat-img {
+    height: 200px;
+    width: 200px;
+}
+
+.btn-bg {
+    background-color: tomato;
+    padding: 10px;
+    width: 150px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: auto;
+}
+
+.on-btn {
+    background-color: rgb(79, 215, 79);
+    border-radius: 5px;
+    margin-right: 10px;
+    color: white;
+}
+
+.d {
+    display: flex;
+    flex-direction: column;
+}
+
+.off-btn {
+    background-color: rgb(210, 27, 27);
+    border-radius: 5px;
+    margin-left: 10px;
+    color: white;
+}
+
+.state {
+    font-size: 17px;
+    color: white;
+}
